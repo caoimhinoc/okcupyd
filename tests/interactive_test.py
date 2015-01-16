@@ -1,6 +1,6 @@
 import sys
 
-import inittest.mock
+import unittest.mock
 
 import okcupyd
 
