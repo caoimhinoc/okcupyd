@@ -1,7 +1,7 @@
 import importlib
 import os
 
-import inittest.mock
+import unittest.mock
 
 from . import util
 
