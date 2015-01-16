@@ -3,7 +3,7 @@ import logging
 
 from lxml import html
 import simplejson
-import mock
+import unittest.mock
 
 from . import details
 from . import essay
