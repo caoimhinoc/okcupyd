@@ -1,4 +1,4 @@
-import mock
+import unittest.mock
 
 from . import util
 from okcupyd import User
