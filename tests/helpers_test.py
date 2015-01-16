@@ -1,6 +1,6 @@
 import datetime
 
-import mock
+import unittest.mock
 import pytest
 
 from okcupyd import helpers
