@@ -1,6 +1,6 @@
 import operator
 
-import mock
+import unittest.mock
 import pytest
 
 from okcupyd import User
