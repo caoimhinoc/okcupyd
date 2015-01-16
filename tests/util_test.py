@@ -1,7 +1,7 @@
 import itertools
 import operator
 
-import mock
+import unittest.mock
 import pytest
 
 from okcupyd import util
