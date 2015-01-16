@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import datetime
 
-import mock
+import unittest.mock
 
 from . import util
 from okcupyd import looking_for
