@@ -1,4 +1,4 @@
-import mock
+import unittest.mock
 import pytest
 
 from . import util
