@@ -4,7 +4,7 @@ import itertools
 import os
 import time
 
-import mock
+import unittest.mock
 import contextlib2 as contextlib
 import pytest
 from sqlalchemy import create_engine
